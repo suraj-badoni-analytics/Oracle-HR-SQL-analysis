@@ -31,4 +31,4 @@ Identified departments with high average salaries and employees earning above co
 ![Average Salary](screenshots/avg_salary_by_department.png) 
 
 ### Employees with Salary Above Average 
-![Above Average Salary](screenshots/salary_above_average.png.PNG)
+![Above Average Salary](screenshots/salary_above_average.PNG)
